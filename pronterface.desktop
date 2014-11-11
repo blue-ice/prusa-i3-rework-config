@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Pronterface
+Comment=Runs Pronterface
+Exec=bash %k/programs/run-pronterface.bash %k
+Terminal=false
+Type=Application
