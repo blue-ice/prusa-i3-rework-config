@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Slic3r
+Comment=Runs Slic3r
+Exec=pcmanfm %k/programs/Slic3r/bin/slic3r
+Terminal=false
+Type=Application
