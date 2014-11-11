@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Marlin
+Comment=Runs Marlin
+Exec=arduino %k/programs/Marlin-Marlin_v1/Marlin/Marlin.ino
+Terminal=false
+Type=Application
