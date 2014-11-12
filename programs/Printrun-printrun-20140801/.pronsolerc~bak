@@ -4,7 +4,7 @@ set last_window_height 513
 set port /dev/ttyACM0
 set last_temperature 183.0
 set last_file_path /home/robert/Desktop/gcode
-set recentfiles ["/home/robert/Desktop/gcode/bbb1.gco", "/home/robert/Desktop/gcode/D20-scaled1.gcode", "/home/robert/Desktop/gcode/D20-scaled2.gcode", "/home/robert/Desktop/gcode/D201.gcode", "/home/robert/Desktop/gcode/screen-door-handle.gcode"]
+set recentfiles ["/home/robert/Desktop/gcode/new-spool2.gcode", "/home/robert/Desktop/gcode/d20-3.gco", "/home/robert/Desktop/gcode/bbb1.gco", "/home/robert/Desktop/gcode/D20-scaled1.gcode", "/home/robert/Desktop/gcode/D20-scaled2.gcode"]
 set last_bed_temperature 60.0
 set total_filament_used 21430.73098
 set xy_feedrate 3000
