@@ -492,7 +492,7 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
 
 // default settings
 
-#define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,4000,730}  // was 720
+#define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,4000,740}  // was 720, then 730
 #define DEFAULT_MAX_FEEDRATE          {500, 500, 2, 50}    // (mm/sec)
 #define DEFAULT_MAX_ACCELERATION      {9000,9000,100,1000}    // X, Y, Z, E maximum start speed for accelerated moves. E default values are good for Skeinforge 40+, for older versions raise them a lot.
 
