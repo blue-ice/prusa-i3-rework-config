@@ -43,7 +43,7 @@
 	#ifdef CUSTOM_MENDEL_NAME
 		#define MACHINE_NAME CUSTOM_MENDEL_NAME
 	#else
-		#define MACHINE_NAME "Prusa i3 Rework"
+		#define MACHINE_NAME "Prusa3"
 	#endif
 
 // Default firmware set to Mendel
