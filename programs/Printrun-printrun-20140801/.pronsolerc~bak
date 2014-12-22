@@ -4,7 +4,7 @@ set last_window_height 513
 set port /dev/ttyACM0
 set last_temperature 183.0
 set last_file_path /home/robert/Downloads
-set recentfiles ["/home/robert/Downloads/chikorita_starter_2gen_flowalistik.gcode", "/home/robert/Desktop/parametric_rounded_box.gcode", "/home/robert/Desktop/spring_2764_6164.gcode", "/home/robert/Desktop/spring_2764_6164_2.gcode", "/home/robert/Desktop/gcode/greg3m3.gcode"]
+set recentfiles ["/home/robert/Downloads/droplet.gcode", "/home/robert/Downloads/letter_b5.gcode", "/home/robert/Downloads/letter_b4.gcode", "/home/robert/Downloads/letter_b3.gcode", "/home/robert/Downloads/letter_b2.gcode"]
 set last_bed_temperature 60.0
 set total_filament_used 21479.02268
 set xy_feedrate 3000
