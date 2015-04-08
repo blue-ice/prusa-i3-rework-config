@@ -3,8 +3,8 @@ set last_window_width 800
 set last_window_height 513
 set port /dev/ttyACM0
 set last_temperature 183.0
-set last_file_path /home/robert/Downloads
-set recentfiles ["/home/robert/Downloads/printer_wire_clip.gcode", "/home/robert/Downloads/socketed-5-piece-4.gcode", "/home/robert/Downloads/droplet.gcode", "/home/robert/Downloads/letter_b5.gcode", "/home/robert/Downloads/letter_b4.gcode"]
+set last_file_path /media/robert/3334-34303
+set recentfiles ["/media/robert/3334-34303/ellie.gcode", "/home/robert/Downloads/nika.gcode", "/home/robert/Downloads/printer_wire_clip.gcode", "/home/robert/Downloads/socketed-5-piece-4.gcode", "/home/robert/Downloads/droplet.gcode"]
 set last_bed_temperature 60.0
 set total_filament_used 21479.02268
 set xy_feedrate 3000
